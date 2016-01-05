@@ -1,11 +1,11 @@
-package com.indix
+package minhashmetrics.similarity
 
-import com.indix.similarity.AllPairsApproach
-
-import scala.io.Source
 import java.io._
+
 import org.json4s._
 import org.json4s.jackson.JsonMethods._
+
+import scala.io.Source
 
 object App {
   
@@ -17,14 +17,19 @@ object App {
 
   def main(args : Array[String]) {
     val input = Source.fromFile("akris.json")
-    val titles: List[String] = input.getLines().toList.map(getTitle)
+    val titles: List[String] = input.getLines().toList.map(getTitle).take(100)
 
     def printToFile(f: java.io.File)(op: java.io.PrintWriter => Unit) {
       val p = new java.io.PrintWriter(f)
       try { op(p) } finally { p.close() }
     }
-    printToFile(new File("example.txt")) { p =>
-      AllPairsApproach.similarPairs(titles).foreach(p.println)
+    printToFile(new File("output.txt")) { p =>
+      AllPairsApproach.allPairs(titles).map{
+        case (x, y) => p.println(x +
+        "   *&*&*&*   " +
+        y + "   *&*&*   " +
+        AllPairsApproach.jaccardSimilarityIndex(x, y))
+      }
     }
   }
 

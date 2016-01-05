@@ -1,4 +1,4 @@
-package com.indix.similarity
+package minhashmetrics.similarity
 
 object AllPairsApproach {
   def jaccardSimilarityIndex(text1:String, text2:String) = {
