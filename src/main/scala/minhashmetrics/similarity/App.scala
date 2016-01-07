@@ -2,7 +2,6 @@ package minhashmetrics.similarity
 
 import java.io._
 
-import minhashmetrics.utils.JsonUtil
 import org.apache.spark.{SparkConf, SparkContext}
 import org.json4s._
 import org.json4s.native.JsonMethods._
@@ -20,20 +19,20 @@ object App {
 
   def main(args : Array[String]) {
     val input = Source.fromFile("addison.json")
-    val titles = input.getLines().map(getTitle).toList.take(10)
+    val titles = input.getLines().map(getTitle).toList
 
     def printToFile(f: java.io.File)(op: java.io.PrintWriter => Unit) {
       val p = new java.io.PrintWriter(f)
       try { op(p) } finally { p.close() }
     }
     printToFile(new File("output.txt")) { p =>
-      AllPairsApproach.allPairs(titles).filter(_.similarity > 0.0).foreach(x => p.println(JsonUtil.toJson(x)))
+      AllPairsApproach.printSimilarTitles(titles, p, 0.75)
     }
 
-    val sc = new SparkContext(new SparkConf().setAppName("").setMaster("local"))
-
-    val minHashApproach = new MinHashApproach(sc)
-    val model = minHashApproach.runLSH(sc.parallelize(titles.map(cleanText).map(formSet)))
+//    val sc = new SparkContext(new SparkConf().setAppName("").setMaster("local"))
+//
+//    val minHashApproach = new MinHashApproach(sc)
+//    val model = minHashApproach.runLSH(sc.parallelize(titles.map(cleanText).map(formSet)))
 
   }
 

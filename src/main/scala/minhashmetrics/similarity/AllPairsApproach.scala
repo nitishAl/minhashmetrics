@@ -1,5 +1,8 @@
 package minhashmetrics.similarity
 
+import java.io._
+import minhashmetrics.utils.JsonUtil
+
 case class JaccardPair(first: String, second: String, similarity:Double){
 }
 
@@ -9,20 +12,21 @@ object AllPairsApproach {
 
   def formSet(text:String): Set[String] = text.split(" +").toSet
 
+  def cleanAndFormSet(input:String):Set[String] = formSet(cleanText(input))
+
   def jaccardSimilarityIndex(set1:Set[String], set2:Set[String]): Double = {
     (set1.intersect(set2).size).toDouble/(set1.union(set2).size)
   }
 
-  def allPairs(testLines:List[String]):List[JaccardPair] = {
-    def allPairs(testLines:List[String], acc:List[JaccardPair]):List[JaccardPair] = testLines match {
-      case head :: Nil => acc
-      case head :: tail =>  allPairs(tail, acc ++ tail.map(x => new JaccardPair(cleanText(head), cleanText(x), jaccardSimilarityIndex(formSet(cleanText(head)), formSet(cleanText(head))))))
+  def printSimilarTitles(testLines:List[String], output:PrintWriter, threshold: Double):Unit = testLines match {
+    case head :: Nil =>
+    case head :: tail =>  {
+      tail.map(tailLine => {
+        val similarity: Double = jaccardSimilarityIndex(cleanAndFormSet(head), cleanAndFormSet(tailLine))
+        if(similarity > threshold)
+          output.println(JsonUtil.toJson(new JaccardPair(head, tailLine, similarity)))
+      })
+      printSimilarTitles(tail, output, threshold)
     }
-    allPairs(testLines, Nil)
-  }
-
-  def similarPairs(textLines:List[String]) = {
-    val pairs: List[JaccardPair] = allPairs(textLines)
-    pairs.filter(_.similarity > 0.5)
   }
 }
