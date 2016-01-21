@@ -1,0 +1,45 @@
+TOP_LEVEL_CATEGORIES:
+    APPAREL : clothing & accessories
+    SHOES_AND_ACCESSORIES : shoes
+    HPC : health & personal care
+    GROCERY : grocery & gourmet food
+    HOME_IMPROVEMENT : tools & home improvement
+    OFFICE_SCHOOL_SUPPLIES : office products
+    ARTS_CRAFTS : arts, crafts & sewing
+    FURNITURE : furniture
+    ELECTRONICS : electronics
+    BABY_ESSENTIALS : baby products
+    HOME : home & kitchen
+    TOOLS_HARDWARE : tools & home improvement
+    SPORTS_OUTDOOR : sports & outdoors
+    AUTOMOTIVE : automotive
+    PATIO_LAWN_GARDEN : patio, lawn & garden
+    COMPUTERS : computers & accessories
+    TOYS_GAMES : toys & games
+    ADDITIONAL : additional
+    INDUSTRIAL_SCIENTIFIC : industrial & scientific
+
+STOP_WORD_FILE_MAPPING:
+    TOYS_GAMES : /stopwords/ToysGames.txt
+    ELECTRONICS : /stopwords/Electronics.txt
+    SHOES_AND_ACCESSORIES : /stopwords/ShoesAccessories.txt
+    ARTS_CRAFTS : /stopwords/ArtsCraftsSewing.txt
+    HPC : /stopwords/GroceryHealthPersonalCare.txt
+    GROCERY : /stopwords/GroceryHealthPersonalCare.txt
+    COMPUTERS : /stopwords/Computers.txt
+    TOOLS_HARDWARE : /stopwords/ToolsHardware.txt
+    HOME : /stopwords/Home.txt
+    AUTOMOTIVE : /stopwords/Automotive.txt
+    HOME_IMPROVEMENT : /stopwords/HomeImprovement.txt
+    FURNITURE : /stopwords/Furniture.txt
+    APPAREL : /stopwords/Apparel.txt
+    BABY_ESSENTIALS : /stopwords/BabyEssentials.txt
+    PATIO_LAWN_GARDEN : /stopwords/PatioLawnGarden.txt
+    SPORTS_OUTDOOR : /stopwords/SportsOutdoors.txt
+    OFFICE_SCHOOL_SUPPLIES : /stopwords/OfficeSchoolSupplies.txt
+    INDUSTRIAL_SCIENTIFIC : /stopwords/IndustrialScientific.txt
+
+LEAF_LEVEL_MAPPING:
+    RUGS : home & kitchen > home décor > area rugs & pads
+    OTHER_APPAREL : >
+     baby products > apparel & accessories

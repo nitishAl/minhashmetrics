@@ -1,0 +1,615 @@
+aero blue
+african violet
+air force blue
+air superiority blue
+alabama crimson
+alice blue
+alizarin crimson
+alloy orange
+almond
+amaranth
+amazon
+amber
+american rose
+amethyst
+android green
+anti-flash white
+antique brass
+antique bronze
+antique fuchsia
+antique ruby
+antique white
+ao
+apple green
+apricot
+aqua
+aquamarine
+army green
+arsenic
+arylide yellow
+ash grey
+asparagus
+atomic tangerine
+auburn
+aureolin
+aurometalsaurus
+avocado
+azure
+azure mist
+azure web
+baby blue
+baby blue eyes
+baby pink
+baby powder
+baker-miller pink
+ball blue
+banana mania
+banana yellow
+barn red
+battleship grey
+bazaar
+b'dazzled blue
+beau blue
+beaver
+beige
+big dip o’ruby
+bisque
+bistre
+bistre brown
+bitter lemon
+bitter lime
+bittersweet
+bittersweet shimmer
+black
+black bean
+black leather jacket
+black olive
+blanched almond
+blast-off bronze
+bleu de france
+blizzard blue
+blond
+blue
+blue bell
+blueberry
+bluebonnet
+blue-gray
+blue-green
+blue sapphire
+blue-violet
+blush
+bole
+bondi blue
+bone
+boston university red
+bottle green
+boysenberry
+brandeis blue
+brass
+brick red
+bright cerulean
+bright green
+bright lavender
+bright maroon
+bright pink
+bright turquoise
+turquoise
+bright ube
+brilliant lavender
+brilliant rose
+brink pink
+british racing green
+bronze
+bronze yellow
+brown
+brown-nose
+brunswick green
+bubble gum
+bubbles
+buff
+bulgarian rose
+burgundy
+burlywood
+burnt orange
+burnt sienna
+burnt umber
+byzantine
+byzantium
+cadet
+cadet blue
+cadet grey
+cadmium green
+cadmium orange
+cadmium red
+cadmium yellow
+café au lait
+café noir
+cal poly green
+cambridge blue
+camel
+cameo pink
+camouflage green
+canary yellow
+candy apple red
+candy pink
+capri
+caput mortuum
+cardinal
+caribbean green
+carmine
+carmine pink
+carmine red
+carnation pink
+carnelian
+carolina blue
+carrot orange
+castleton green
+catalina blue
+cedar chest
+ceil
+celadon
+celadon blue
+celadon green
+celeste
+celestial blue
+cerise
+cerise pink
+cerulean
+cerulean blue
+cerulean frost
+cg blue
+cg red
+chamoisee
+champagne
+charcoal
+charleston green
+charm pink
+chartreuse
+chartreuse green
+cherry
+cherry blossom pink
+chestnut
+china pink
+china rose
+chinese red
+chinese violet
+chocolate
+chrome yellow
+cinereous
+cinnabar
+cinnamon
+citrine
+citron
+claret
+classic rose
+cobalt
+cocoa brown
+coconut
+coffee
+columbia blue
+congo pink
+cool black
+cool grey
+copper
+copper penny
+copper red
+copper rose
+coquelicot
+coral
+coral pink
+coral red
+cordovan
+corn
+cornell red
+cornflower blue
+cornsilk
+cosmic latte
+cotton candy
+crayola
+cream
+crimson
+crimson glory
+cyan
+cyber grape
+daffodil
+dandelion
+dark blue
+dark blue-gray
+dark brown
+dark byzantium
+dark candy apple red
+dark cerulean
+dark chestnut
+dark coral
+dark cyan
+dark electric blue
+dark goldenrod
+dark gray
+dark green
+dark imperial blue
+dark jungle green
+dark khaki
+dark lava
+dark lavender
+dark magenta
+dark midnight blue
+dark moss green
+dark olive green
+dark orange
+dark orchid
+dark pastel blue
+dark pastel green
+dark pastel purple
+dark pastel red
+dark pink
+dark powder blue
+dark raspberry
+dark red
+dark salmon
+dark scarlet
+dark sea green
+dark sienna
+dark sky blue
+dark slate blue
+dark slate gray
+dark spring green
+dark tan
+dark tangerine
+dark taupe
+dark terra cotta
+dark turquoise
+dark vanilla
+dark violet
+dark yellow
+dark java
+dartmouth green
+davy's grey
+debian red
+deep carmine
+deep carmine pink
+deep carrot orange
+deep cerise
+deep champagne
+deep chestnut
+deep coffee
+deep fuchsia
+deep jungle green
+deep lemon
+deep lilac
+deep magenta
+deep mauve
+deep moss green
+deep peach
+deep pink
+deep ruby
+deep saffron
+deep sky blue
+deep space sparkle
+deep taupe
+deep tuscan red
+deer
+denim
+desert
+desert sand
+diamond
+dim gray
+dirt
+dodger blue
+dogwood rose
+dollar bill
+drab
+duke blue
+dust storm
+earth yellow
+ebony
+ecru
+eggplant
+eggshell
+egyptian blue
+electric blue
+electric crimson
+electric cyan
+electric green
+electric indigo
+electric lavender
+electric lime
+electric purple
+electric ultramarine
+electric violet
+electric yellow
+emerald
+english green
+english lavender
+english red
+english violet
+erin
+eton blue
+eucalyptus
+fallow
+falu red
+fandango
+fandango pink
+fashion fuchsia
+fawn
+feldgrau
+feldspar
+fern green
+ferrari red
+field drab
+firebrick
+fire engine red
+flame
+flamingo pink
+flattery
+flavescent
+flax
+floral white
+fluorescent orange
+fluorescent pink
+fluorescent yellow
+folly
+forest green
+french beige
+french bistre
+french blue
+french lilac
+french lime
+french mauve
+french raspberry
+french rose
+french sky blue
+french wine
+fresh air
+fuchsia
+fuchsia pink
+fuchsia rose
+fulvous
+fuzzy wuzzy
+gainsboro
+gamboge
+ghost white
+giants orange
+ginger
+glaucous
+glitter
+go green
+pop art
+gold
+golden brown
+golden poppy
+goldenrod
+golden yellow
+gold fusion
+gold metallic
+granny smith apple
+grape
+gray
+gray-asparagus
+gray-blue
+green
+green-yellow
+grullo
+guppie green
+halayà úbe
+han blue
+han purple
+hansa yellow
+harlequin
+harvard crimson
+harvest gold
+heart gold
+heliotrope
+hollywood cerise
+honeydew
+honolulu blue
+hooker's green
+hot magenta
+hot pink
+hunter green
+iceberg
+icterine
+illuminating emerald
+imperial
+imperial blue
+imperial purple
+imperial red
+inchworm
+india green
+indian red
+indian yellow
+indigo
+indigo (dye)
+indigo (web)
+international klein blue
+international orange
+iris
+irresistible
+isabelline
+islamic green
+italian sky blue
+ivory
+jade
+jasmine
+jasper
+jazzberry jam
+jelly bean
+jet
+jonquil
+june bud
+jungle green
+kelly green
+kenyan copper
+keppel
+khaki
+kobe
+kobi
+ku crimson
+languid lavender
+lapis lazuli
+la salle green
+laser lemon
+laurel green
+lava
+lavender
+lavender blue
+lavender blush
+lavender gray
+lavender indigo
+lavender magenta
+lavender mist
+lavender pink
+lavender purple
+lavender rose
+lawn green
+lemon
+lemon chiffon
+lemon curry
+lemon glacier
+lemon lime
+lemon meringue
+lemon yellow
+licorice
+lightning
+titanium
+light apricot
+light blue
+light brown
+light carmine pink
+light coral
+light cornflower blue
+light crimson
+light cyan
+light fuchsia pink
+light goldenrod yellow
+light gray
+light green
+light khaki
+light medium orchid
+light moss green
+light orchid
+light pastel purple
+light pink
+light red ochre
+light salmon
+light salmon pink
+light sea green
+light sky blue
+light slate gray
+light steel blue
+light taupe
+light thulian pink
+light yellow
+lilac
+lime
+lime green
+limerick
+lincoln green
+linen
+lion
+little boy blue
+liver
+lumber
+lust
+magenta
+magenta rose
+magic mint
+magnolia
+mahogany
+maize
+majorelle blue
+malachite
+manatee
+mango tango
+mantis
+mardi gras
+maroon
+mauve
+mauvelous
+mauve taupe
+maya blue
+meat brown
+medium aquamarine
+medium blue
+medium candy apple red
+medium carmine
+medium champagne
+medium electric blue
+medium jungle green
+medium lavender magenta
+medium orchid
+medium persian blue
+medium purple
+medium red-violet
+medium ruby
+medium sea green
+medium sky blue
+medium slate blue
+medium spring bud
+medium spring green
+medium taupe
+medium turquoise
+medium tuscan red
+medium vermilion
+medium violet-red
+mellow apricot
+mellow yellow
+melon
+metallic gold
+metallic seaweed
+metallic sunburst
+mexican pink
+midnight blue
+midnight green
+midori
+mikado yellow
+mint cream
+mint green
+misty rose
+moccasin
+mode beige
+moonstone blue
+mordant red
+moss green
+mountain meadow
+mountbatten pink
+msu green
+mughal green
+mulberry
+munsell
+mustard
+myrtle green
+navy blue
+neutral
+olive
+orange
+orange-red
+orchid
+peach
+pear
+periwinkle
+persian blue
+pink
+plum
+prussian blue
+puce
+purple
+raspberry
+red
+red-violet
+rose
+sae/ece amber
+salmon
+sapphire
+scarlet
+silver
+slate gray
+spring bud
+spring green
+tan
+taupe
+teal
+turquoise
+violet
+viridian
+white
+yellow

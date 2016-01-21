@@ -26,7 +26,7 @@
     <dependency>
       <groupId>org.scala-lang</groupId>
       <artifactId>scala-library</artifactId>
-      <version>${scala.version}</version>
+      <version>2.10.0</version>
     </dependency>
     <dependency>
       <groupId>com.invincea</groupId>
@@ -43,7 +43,22 @@
           <artifactId>jackson-core</artifactId>
           <version>2.6.4</version>
       </dependency>
+    <dependency>
+      <groupId>org.scalanlp</groupId>
+      <artifactId>breeze_2.10</artifactId> <!-- or 2.11 -->
+      <version>0.10</version>
+    </dependency>
+    <dependency>
+      <groupId>org.scalanlp</groupId>
+      <artifactId>breeze-process_2.10</artifactId>
+      <version>0.2</version>
+    </dependency>
 
+    <dependency>
+      <groupId>org.yaml</groupId>
+      <artifactId>snakeyaml</artifactId>
+      <version>1.16</version>
+    </dependency>
 
     <!-- Test -->
     <dependency>
